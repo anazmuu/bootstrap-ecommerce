@@ -1,0 +1,1 @@
+download font-awesome for desktop agar icon terbaca di template web
